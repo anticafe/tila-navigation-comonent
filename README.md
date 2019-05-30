@@ -1,2 +1,2 @@
 # tila-navigation-component
-Today I learn Android - Jetpack Navigation Component
+Today I learned Android - Jetpack Navigation Component
